@@ -1,5 +1,9 @@
 # Abdullah Rahim Hussain
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Robotics+BSc+Student+%40+PAF-IAST;ADAS+Perception+%26+Functional+Safety;Machine+Learning+%2B+Computer+Vision;Building+in+Python+%2C+Learning+C%2B%2B" alt="Typing SVG" />
+</a>
+
 Robotics Undergraduate | AI/ML | Computer Vision | Embedded Systems
 
 Jubail, Saudi Arabia
