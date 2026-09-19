@@ -49,11 +49,11 @@ Computer Science Higher Secondary School — January 2024 - January 2026
 
 ## Experience
 
-**Perception Validation Engineer** — [ProoV Industry Project](https://proov.io)
+**Perception Validation Engineer** — [ProoV Industry Project](https://projectstudy.in/explore/experience-teach-the-car-to-see)
 January 2026 - January 2026
 Built an ADAS perception-validation dossier on open-AV detection data; computed IoU, precision, recall, and pedestrian/cyclist false-negative rates across 4 core metrics to score a frozen detector. Diagnosed where pedestrian recall collapsed at night and under occlusion, then wrote an ISO 21448 SOTIF safety case and signed a GO / GO-WITH-CONDITIONS / NO-GO verdict. Benchmarked findings against the 2018 Uber Tempe fatal crash (NTSB).
 
-**Condition-Monitoring Engineer** — [ProoV Industry Project](https://proov.io)
+**Condition-Monitoring Engineer** — [ProoV Industry Project](https://projectstudy.in/explore/experience-schaeffler)
 January 2026 - January 2026
 Engineered vibration features (RMS, kurtosis, crest factor) and leveraged envelope-spectrum analysis in Python to isolate 3 key bearing fault frequencies from test data. Trained a depth-capped decision tree for an embedded compute budget, evaluated held-out bearing data using catch rate and false-alarm rate, and documented a cost-based alarm threshold in a maintenance memo.
 
@@ -84,10 +84,10 @@ Lightweight scheduling app to organize homework and study time across 4+ subject
 
 ## Certifications
 
-- Machine Learning for Automotive Safety — ProoV, August 2026
-- Predictive Maintenance: Industrial ML for Fault Detection — ProoV, August 2026
-- Robotics and Controls Job Simulation — Johnson & Johnson MedTech, via Forage, August 2026
-- Operations Industrial Engineer Job Simulation — Siemens Mobility, via Forage, August 2026
+- [Machine Learning for Automotive Safety](https://projectstudy.in/explore/experience-teach-the-car-to-see) — ProoV, August 2026
+- [Predictive Maintenance: Industrial ML for Fault Detection](https://projectstudy.in/explore/experience-schaeffler) — ProoV, August 2026
+- [Robotics and Controls Job Simulation](https://www.theforage.com/simulations/johnson-and-johnson/robotics-controls-aozc) — Johnson & Johnson MedTech, via Forage, August 2026
+- [Operations Industrial Engineer Job Simulation](https://www.theforage.com/simulations/siemens-mobility/operations-industrial-engineering-xh22) — Siemens Mobility, via Forage, August 2026
 - Digital Transformation Course — IBM, January 2025
 
 ---
